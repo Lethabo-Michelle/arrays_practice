@@ -1,4 +1,4 @@
-let customer = {
+let me = {
   fName: "Lethabo",
   amount: 500,
   products:[
